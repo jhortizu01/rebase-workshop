@@ -1,6 +1,6 @@
-# Rebase Workshop
+# Rebase Workshop 🛼
 
-CONTENTS OF THIS FILE
+CONTENTS OF THIS FILE ❤️
 ---------------------
 
  * Introduction
@@ -10,7 +10,7 @@ CONTENTS OF THIS FILE
  * Configuration
  * Troubleshooting
 
- INTRODUCTION
+ INTRODUCTION⭐️
 ------------
 This is just a base template for a README with `Lorem Ipsum`, used for the [Rebase Workflow Workshop](https://mod4.turing.edu/lessons/rebase-workflow-workshop.html) session.
 
